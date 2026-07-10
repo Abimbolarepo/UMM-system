@@ -1,0 +1,16 @@
+body{
+    background:#eef2f7;
+}
+
+.card{
+    border:none;
+    border-radius:10px;
+}
+
+.card-header{
+    font-weight:bold;
+}
+
+.btn-primary{
+    font-weight:bold;
+}
